@@ -43,7 +43,7 @@ Dependencies
 Step 1: Capture LiDAR Data
 Use Lidar sensor to capture 3d point cloud data of potholes.
 
-Step 2: Preprocess the .las File**
+Step 2: Preprocess the .las File
 Load the .las file into visulaization.py to vizulaize the pothole.
 
 Step 3: Input Data into depth.ipynb
