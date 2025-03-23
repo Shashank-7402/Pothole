@@ -33,10 +33,23 @@ Clone the repository and install dependencies:
 pip install -r requirements.txt
 
 Dependencies  
-- Python 3.10  
+- Python 3.10
 - Open3D  
 - NumPy  
 - Matplotlib  
 - Scikit-learn  
 - SciPy  
-- laspy  
+- laspy
+```
+Step 1: Capture LiDAR Data
+
+Use Lidar sensor to capture 3d point cloud data of potholes.
+Step 2: Preprocess the .las File**
+
+Load the .las file into visulaization.py to vizulaize the pothole.
+Step 3: Input Data into depth.ipynb
+
+Load the processed point cloud into depth.ipynb for depth estimation.
+Run depth estimation and pothole detection.
+Extract pothole depth in meters.
+Step 4: Visualize & Analyze Results
