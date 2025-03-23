@@ -20,20 +20,6 @@ aids in extracting the precise dimensions of potholes. The approach
 enables real-time visualization and accurate depth calculation of
 potholes, which is crucial for road safety and maintenance. ![ScreenCapture_2025-03-18-22-22-16](https://github.com/user-attachments/assets/a70be821-b383-40cf-89fb-f586794e5ab3)
 
-
-HOW TO RUN THE PROJECT
-Installation Command:
-Run the following command in your terminal to install all dependencies:
-pip install -r requirements.txt
-
-To run your latest pothole project using **LiDAR and 3D point cloud (.las) files**, follow these steps:
-
-Step 1: Capture LiDAR Data
-- Use Lidar sensor to capture 3d point cloud data of potholes.
-
-Step 2: Preprocess the .las File**  
-- Load the .las file into visulaization.py to vizulaise the pothole. 
-
 Step 3: Input Data into depth.ipynb 
 - Load the processed point cloud into depth.ipynb for depth estimation.  
 - Run depth estimation and pothole detection.  
