@@ -19,6 +19,8 @@ then utilized to identify pothole regions, and convex hull estimation
 aids in extracting the precise dimensions of potholes. The approach
 enables real-time visualization and accurate depth calculation of
 potholes, which is crucial for road safety and maintenance. ![ScreenCapture_2025-03-18-22-22-16](https://github.com/user-attachments/assets/a70be821-b383-40cf-89fb-f586794e5ab3)
+
+
 HOW TO RUN THE PROJECT
 Installation Command:
 Run the following command in your terminal to install all dependencies:
