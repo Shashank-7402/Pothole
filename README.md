@@ -56,3 +56,14 @@ Extract pothole depth in meters.
 
 Step 4: Visualize & Analyze Results
 ![output](https://github.com/user-attachments/assets/9a769c5a-b9e6-4370-b07b-c2786fc2b67a)
+
+RESULT
+```Table
+Measurements	Dimensions in meters
+Maximum Depth:	0.077 meters
+Average Depth:	0.067 meters
+Length:	0.240 meters
+Width:	0.200 meters
+Surface Area:	0.035 square meters
+Approximate Volume:	0.002 cubic meters
+```
